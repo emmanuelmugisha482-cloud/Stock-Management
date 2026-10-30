@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#2b7bb9"
+
+# Text size (default is 16). Raise it for bigger text everywhere, including tables.
+baseFontSize = 18
+
+# Fonts are loaded from Google Fonts. To change a font, change the name AND the name inside the link.
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "Poppins:https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap"
+
+[client]
+# Hides the "Deploy" button and developer menu items from staff.
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false
