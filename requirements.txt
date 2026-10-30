@@ -1,0 +1,6 @@
+streamlit
+pandas
+pillow
+openpyxl
+psycopg2-binary
+jinja2
